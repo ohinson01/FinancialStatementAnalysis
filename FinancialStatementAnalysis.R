@@ -82,3 +82,4 @@ M <- rbind(
 #Print The Matrix
 M
 
+#(c) Kirill Eremenko, www.superdatascience.com
